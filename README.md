@@ -1,6 +1,6 @@
 # evolutionary-architecture
 
-**Pleas create a pull-request, for adding content**
+**Please create a pull-request, for adding content**
 
 * The website: http://evolutionaryarchitecture.com/
 * The Katas: http://evolutionaryarchitecture.com/ffkatas/list.html
