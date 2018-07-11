@@ -1,8 +1,10 @@
 # evolutionary-architecture
 
+**Pleas create a pull-request, for adding content**
+
 * The website: http://evolutionaryarchitecture.com/
 * The Katas: http://evolutionaryarchitecture.com/ffkatas/list.html
-
+* The Book: https://www.amazon.de/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/ref=sr_1_1?ie=UTF8&qid=1531321428&sr=8-1&keywords=evolutionary+architecture
 
 ## Unstructured Brainstorming
 
