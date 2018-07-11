@@ -1,5 +1,8 @@
 # evolutionary-architecture
-evolutionary-architecture tools
+
+* The website: http://evolutionaryarchitecture.com/
+* The Katas: http://evolutionaryarchitecture.com/ffkatas/list.html
+
 
 ## Unstructured Brainstorming
 
